@@ -17,3 +17,30 @@
 - La velocidad promedio del coche fue de 60 km/h, lo que permite estimar tiempos de entrega.
 
 
+## 4) Diferencia
+- Dato: Hecho aislado sin contexto (ej.: “Juan compró 3 camisetas”).
+- Información: Datos procesados y organizados que permiten tomar decisiones (ej.: “La mayoría de los clientes compran entre 2 y 4 productos”).
+
+## 5) Ciclo del dato
+- Captura: Registro de compras en la app y sensores de máquinas.
+- Almacenamiento: Guardar datos en la base de datos del sistema.
+- Procesamiento: Ordenar, limpiar y clasificar los datos de ventas y producción.
+- Análisis: Identificar patrones de compra y eficiencia de producción.
+- Uso: Ajustar inventario, promociones y planificación de producción.
+- Eliminación: Borrar datos antiguos o archivarlos para referencia futura.
+
+## 6) Aplicación
+- Decisiones:
+  + Ajustar stock según demanda.
+  + Enviar promociones personalizadas a clientes frecuentes.
+  + Planificar la producción para evitar faltantes o exceso de inventario.
+
+- Valor: Transformar datos en información permite decisiones estratégicas, optimiza recursos y reduce errores.
+
+## 7) Tabla
+| Dato                           | Información                                                  |
+| ------------------------------ | ------------------------------------------------------------ |
+| Juan compró 3 camisetas        | La mayoría de los clientes compran entre 2 y 4 productos     |
+| Máquina A produjo 150 unidades | La producción aumentó un 10 % respecto a la semana pasada    |
+| Temperatura: 22 °C             | El clima es adecuado para realizar actividades al aire libre |
+
