@@ -44,3 +44,14 @@
 | Máquina A produjo 150 unidades | La producción aumentó un 10 % respecto a la semana pasada    |
 | Temperatura: 22 °C             | El clima es adecuado para realizar actividades al aire libre |
 
+## 8) Diagrama
+
+## 9) Problemas
+- Problema 1: Datos erróneos (por ejemplo, cantidades de venta negativas).
+- Solución 1: Implementar validación de datos al momento de capturarlos.
+- Problema 2: Datos incompletos (falta de información en registros de clientes).
+- Solución 2: Realizar limpieza de datos y solicitar información obligatoria en formularios.
+
+## 10) Fuente
+- Enlaces: https://www.ibm.com/think/topics/data , https://chatgpt.com/
+
