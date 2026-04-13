@@ -49,15 +49,23 @@ Deep Learning (Aprendizaje Profundo): Amazon también emplea técnicas avanzadas
 - Decisión: Amazon muestra productos recomendados en la página de inicio y en las páginas de productos, basados en el historial de navegación y compras del usuario, con el fin de aumentar las probabilidades de conversión.
 
 ## 7) Tabla
-| Concepto | Función |
+| Concepto              | Función                                                                                                                              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+|   Big Data          | Manejar grandes volúmenes de datos sobre las interacciones y preferencias de los usuarios.                                           |
+|   Análisis de datos | Extraer patrones de compra y preferencias de los usuarios para personalizar las recomendaciones.                                     |
+|   Machine Learning  | Hacer predicciones sobre qué productos son más propensos a interesar a un usuario, basándose en su historial y el de otros usuarios. |
+|   Deep Learning     | Mejorar la precisión de las recomendaciones analizando patrones complejos en las interacciones de los usuarios.                      |
+|   IA                | Automatizar y personalizar las decisiones de recomendación de productos para cada usuario.                                           |
 
 ## 8) Diagrama
 
 ## 9) Problemas
-- Problema 1:
-- Solución 1:
-- Problema 2:
-- Solución 2:
+- Problema 1: La recomendación de productos puede ser inexacta si no se tiene suficiente historial de compras o si los nuevos productos no reciben visibilidad suficiente.
+- Solución 1: Implementar técnicas de exploración-explotación que equilibren entre recomendar productos populares y nuevos, permitiendo que los usuarios descubran productos menos conocidos pero relevantes.
+- Problema 2: Los modelos pueden ser sesgados si solo se consideran los comportamientos de los usuarios más frecuentes, dejando fuera a ciertos grupos con comportamientos menos comunes.
+- Solución 2: Diversificar los datos de entrenamiento utilizando técnicas de regularización y asegurando que se incluyan grupos de usuarios con comportamientos diversos para evitar el sesgo.
 
 ## 10) Fuente
-- Enlace:
+- AWS Personalize: https://aws.amazon.com/personalize/
+- Chatgpt: https://chatgpt.com/
+- Amazon: https://www.amazon.es/?&tag=hydesnav21&ref=pd_sl_781oit2196_e&adgrpid=152290669839&hvpone=&hvptwo=&hvadid=672291362554&hvpos=&hvnetw=g&hvrand=7650003628976416011&hvqmt=e&hvdev=c&hvdvmdl=&hvlocint=&hvlocphy=9214437&hvtargid=kwd-10573980&hydadcr=4855_2227860
